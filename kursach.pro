@@ -30,3 +30,6 @@ HEADERS  += \
     qcustomplot.h
 
 FORMS    += mainwindow.ui
+
+DISTFILES += \
+    signal.txt
